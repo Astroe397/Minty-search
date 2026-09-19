@@ -3,6 +3,8 @@
 # Minty-search
 **Minty** is a focused search engine designed to keep you effortlessly in touch with the fast-moving tech world. By combining privacy-focused meta-search crawling, AI reasoning, and a lightweight desktop interface, Minty helps you stay up to date with modern technology news, tools, and developments.
 
+![logo](stuff/download.png)
+
 
 ## Minty relies on the following core technologies to function:
 
